@@ -1,6 +1,6 @@
 # Online Marketplace Management 🛒🌐
 
-An application for managing an online marketplace, facilitating user authentication, product management, order processing, and API gateway services for both web and mobile platforms.
+A microservices-based application for managing an online marketplace, facilitating user authentication, product management, order processing, and API gateway services for both web and mobile platforms.
 
 ## Services
 
