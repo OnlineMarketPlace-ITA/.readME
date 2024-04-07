@@ -50,4 +50,16 @@ To run the application, follow these steps:
      - Product Service: http://localhost:8080
      - Order Service: http://localhost:8080
      - API Web Gateway: http://localhost:3000
-     - API Web Gateway: http://localhost:4000
+     - API Mobile Gateway: http://localhost:4000
+    
+5. **Access the Services through API Gateway:**
+   - Once the API gateway is running, you can access all services through it:
+     - For web:
+       - User Service: http://localhost:3000/user
+       - Product Service: http://localhost:3000/api/product
+       - Order Service: http://localhost:3000/order
+     - For mobile:
+       - User Service: http://localhost:4000/user
+       - Product Service: http://localhost:4000/api/product
+       - Order Service: http://localhost:4000/order
+
